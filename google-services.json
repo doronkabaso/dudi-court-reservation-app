@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458892736143",
+    "project_id": "sela-flutter-auth",
+    "storage_bucket": "sela-flutter-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458892736143:android:d19d605528e549b91c22fa",
+        "android_client_info": {
+          "package_name": "auth.dudi.sela.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458892736143-15h4j0drn5hqihij3e18vscguhmeibhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNF-OGOFhqLMTIgIWBHdxV3qwlagQIHGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458892736143-15h4j0drn5hqihij3e18vscguhmeibhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
